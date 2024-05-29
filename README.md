@@ -1,1 +1,1 @@
-# PROJETO-SITE-PROVEDOR
+Projeto DevMedia: Website para um provedor de hospedagem.
